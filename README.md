@@ -1,7 +1,7 @@
 ## CONSUMIR API POR CONSOLA
-Consumo de rest api para traer los datos de una ciudad cualquiera mediante la consola y almacenarlos localmente.
+Consumo de rest api para traer los datos de una ciudad (nombre,latitud,longitud,temperatura) cualquiera mediante la consola y almacenarlos localmente.
 
-Ejecutar npm i para crear los node_modules/
+Ejecutar 'npm i' para crear los node_modules/
 
 Agregar ciudad: 
 ````
